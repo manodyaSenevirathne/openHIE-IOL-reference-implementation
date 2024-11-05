@@ -1,1 +1,1 @@
-# openHIE-IOL-reference-implementation
+# openHIE-Interoperavility Layer-reference-implementation
